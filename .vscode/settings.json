@@ -3,5 +3,10 @@
         "bin": true,
         "out": true,
         ".*": true
+    },
+    "C_Cpp.default.cStandard": "c11",
+    "C_Cpp.default.intelliSenseMode": "gcc-x64",
+    "files.associations": {
+        "mdns.h": "c"
     }
 }
